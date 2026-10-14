@@ -22,5 +22,5 @@ Liftory account, and the assistant asks before every change.
 | Assistant | Where to get it | Guide |
 |---|---|---|
 | Claude | [Liftory in Claude's directory](https://claude.ai/directory/connectors/liftory) (plugin: [liftory-claude-plugin](https://github.com/liftory/liftory-claude-plugin)) | [Use Liftory from Claude](https://liftory.ch/whats-new/use-liftory-from-claude) |
-| ChatGPT | In ChatGPT's Plugins, search "Liftory" | [Use Liftory from ChatGPT](https://liftory.ch/whats-new/use-liftory-from-chatgpt) |
+| ChatGPT | [Liftory in ChatGPT's Plugins](https://chatgpt.com/plugins/plugin_asdk_app_6ace204ad1008191843119e6108f7254) | [Use Liftory from ChatGPT](https://liftory.ch/whats-new/use-liftory-from-chatgpt) |
 | Google Antigravity | [liftory-antigravity](https://github.com/liftory/liftory-antigravity): `agy plugin install https://github.com/liftory/liftory-antigravity` | [Use Liftory from Antigravity](https://liftory.ch/whats-new/use-liftory-from-antigravity) |
