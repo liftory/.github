@@ -19,10 +19,8 @@ Connect your Liftory account to an assistant and work as yourself: create and re
 check workout history, coach your clients, and read and answer your Liftory messages. You sign in with your own
 Liftory account, and the assistant asks before every change.
 
-| Assistant | Plugin |
-|---|---|
-| Claude | [liftory-claude-plugin](https://github.com/liftory/liftory-claude-plugin) |
-| Google Antigravity | [liftory-antigravity](https://github.com/liftory/liftory-antigravity) |
-| ChatGPT | In ChatGPT's Plugins, search "Liftory" |
-
-Guides: [use Liftory from ChatGPT](https://liftory.ch/whats-new/use-liftory-from-chatgpt) and [from Claude](https://liftory.ch/whats-new/use-liftory-from-claude).
+| Assistant | Where to get it | Guide |
+|---|---|---|
+| Claude | [Liftory in Claude's directory](https://claude.ai/directory/connectors/liftory) (plugin: [liftory-claude-plugin](https://github.com/liftory/liftory-claude-plugin)) | [Use Liftory from Claude](https://liftory.ch/whats-new/use-liftory-from-claude) |
+| ChatGPT | In ChatGPT's Plugins, search "Liftory" | [Use Liftory from ChatGPT](https://liftory.ch/whats-new/use-liftory-from-chatgpt) |
+| Google Antigravity | [liftory-antigravity](https://github.com/liftory/liftory-antigravity): `agy plugin install https://github.com/liftory/liftory-antigravity` | [Use Liftory from Antigravity](https://liftory.ch/whats-new/use-liftory-from-antigravity) |
